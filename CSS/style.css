@@ -1,0 +1,8 @@
+.border-btm{
+    border-bottom-width:3px !important ;
+    border-bottom-color:black !important ;
+}
+.table{
+    width: 55% !important;
+    text-align:center !important;
+}
